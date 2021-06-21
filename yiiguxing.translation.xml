@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Concurrent Hash Map" />
       <item value="Tungsten" />
       <item value="enable Approximate Local Recovery" />
       <item value="Vertex" />
@@ -9,8 +10,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
