@@ -1,0 +1,5 @@
+<application>
+  <component name="JrePropertiesCache">
+    <jre homeDir="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home" arch64Bit="true" />
+  </component>
+</application>
