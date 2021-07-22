@@ -2978,6 +2978,11 @@
                       <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" />
                     </value>
                   </entry>
+                  <entry key="NBMindMap">
+                    <value>
+                      <FeaturePluginData displayName="NB Mind Map" pluginName="IDEA Mind Map" pluginId="nb-mind-map-idea" />
+                    </value>
+                  </entry>
                   <entry key="Python">
                     <value>
                       <FeaturePluginData displayName="Python" pluginName="Pythonid" pluginId="Pythonid" />
