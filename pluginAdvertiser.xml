@@ -407,6 +407,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ejs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.lang.ejs" />
+              <option name="myPluginName" value="EJS" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.elt">
           <value>
             <plugin>
