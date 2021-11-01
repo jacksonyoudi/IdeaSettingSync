@@ -2908,6 +2908,11 @@
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
                     </value>
                   </entry>
+                  <entry key="SolidityConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Solidity" pluginName="me.serce.solidity" pluginId="me.serce.solidity" />
+                    </value>
+                  </entry>
                   <entry key="Specs2RunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Specs2" pluginName="Scala" pluginId="org.intellij.scala" />
