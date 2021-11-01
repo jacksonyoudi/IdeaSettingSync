@@ -1719,6 +1719,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.sol">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="me.serce.solidity" />
+              <option name="myPluginName" value="Solidity" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.sql">
           <value>
             <plugin>

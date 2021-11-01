@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stake" />
+      <item value="Caller" />
       <item value="Concurrent Hash Map" />
       <item value="Tungsten" />
       <item value="enable Approximate Local Recovery" />
@@ -17,5 +19,12 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1624260489591" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
   </component>
 </application>
