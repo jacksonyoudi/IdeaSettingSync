@@ -3,6 +3,7 @@
     <sdk-url>
       <set>
         <option value="file:///usr/local/Cellar/go/1.15.4/libexec" />
+        <option value="file:///usr/local/Cellar/go/1.17.2/libexec" />
       </set>
     </sdk-url>
   </component>
