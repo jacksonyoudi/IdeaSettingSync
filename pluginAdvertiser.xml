@@ -1326,9 +1326,8 @@
         <entry key="*.pdf">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="com.firsttimeinforever.intellij.pdf.viewer.intellij-pdf-viewer" />
+              <option name="myPluginName" value="PDF Viewer" />
             </plugin>
           </value>
         </entry>
