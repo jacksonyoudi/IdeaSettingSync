@@ -801,8 +801,9 @@
         <entry key="*.ignore">
           <value>
             <plugin>
-              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
-              <option name="myPluginName" value=".ignore" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1390,8 +1391,9 @@
         <entry key="*.pdf">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.firsttimeinforever.intellij.pdf.viewer.intellij-pdf-viewer" />
-              <option name="myPluginName" value="PDF Viewer" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
