@@ -41,9 +41,7 @@
         </entry>
         <entry key="Docker">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="GrepConsole">
