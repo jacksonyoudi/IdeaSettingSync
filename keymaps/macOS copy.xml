@@ -1,4 +1,7 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="IntentionActionAsAction_org.rust.ide.intentions.SpecifyTypeExplicitlyIntention">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
