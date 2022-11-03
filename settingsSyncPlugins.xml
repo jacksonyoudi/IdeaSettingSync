@@ -302,6 +302,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.nativeDebug">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.nativeDebug-plugin-capable" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.spring.data">
           <value>
             <PluginData>
@@ -434,6 +445,7 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
