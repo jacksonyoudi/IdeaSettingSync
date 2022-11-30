@@ -5,5 +5,7 @@
     <option name="monochromeColor" value="546e7a" />
     <option name="isHideFileIcons" value="true" />
     <option name="isHideFolderIcons" value="true" />
+    <option name="accentColor" value="ff6666" />
+    <option name="themedColor" value="bbbbbb" />
   </component>
 </application>
