@@ -1,6 +1,9 @@
 <application>
   <component name="AtomFileIconsConfig">
-    <option name="accentColor" value="ff6666" />
-    <option name="themedColor" value="bbbbbb" />
+    <option name="hideFileIcons" value="true" />
+    <option name="hideFolderIcons" value="true" />
+    <option name="monochromeColor" value="546e7a" />
+    <option name="isHideFileIcons" value="true" />
+    <option name="isHideFolderIcons" value="true" />
   </component>
 </application>
